@@ -7,5 +7,9 @@ From kaelnventures@gmail.com, signature Matt M. Phone + domain in every email. N
 
 ## Status
 - 2026-10-08: shipped. Pages not enabled. No T1.
-- Inboxes ready for T1 after HTTP 200: Attic Guard (info@atticguardca.com), Attic Heroes (office@theatticheroes.com), California Attic & Build (office@caatticbuild.com).
+- **2026-10-13:** Pages **200** confirmed — T1 ×3 sent
+  - Attic Guard ((858) 400-0670 / atticguardca.com → info@atticguardca.com)
+  - Attic Heroes ((619) 777-7021 / theatticheroes.com → office@theatticheroes.com)
+  - California Attic & Build ((619) 314-8818 / caatticbuild.com → office@caatticbuild.com)
+- T2 due ~2026-10-16/17
 - Phone-only holds: Advanced Insulation System, Attic Professional.
