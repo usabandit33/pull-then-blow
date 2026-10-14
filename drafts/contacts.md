@@ -12,4 +12,5 @@ Phones copied from each shop's own public website on 2026-10-08. Do not invent n
 
 Not listed: Attic Projects — San Diego insulation page opened 2026-10-08 did not print a phone in the page text. BuildZoom number was not used.
 
-No T1 until https://usabandit33.github.io/pull-then-blow/ returns HTTP 200.
+**T1 ×3 sent 2026-10-13** (Pages 200): Attic Guard, Attic Heroes, California Attic & Build.
+Phone-only holds: Advanced Insulation System, Attic Professional.
