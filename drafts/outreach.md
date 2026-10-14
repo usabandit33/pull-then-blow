@@ -11,5 +11,8 @@ From kaelnventures@gmail.com, signature Matt M. Phone + domain in every email. N
   - Attic Guard ((858) 400-0670 / atticguardca.com → info@atticguardca.com)
   - Attic Heroes ((619) 777-7021 / theatticheroes.com → office@theatticheroes.com)
   - California Attic & Build ((619) 314-8818 / caatticbuild.com → office@caatticbuild.com)
-- T2 due ~2026-10-16/17
+- **2026-10-13 (later):** san-diego.html updated with two more own-site phone+email; T1 ×2 sent
+  - Attic Shield ((858) 402-0066 / atticshield.com → Info@AtticShield.com)
+  - Attic Projects ((858) 246-7421 / atticprojectscompany.com → office@atticprojects-sd.com)
+- T2 due ~2026-10-16/17 for all five
 - Phone-only holds: Advanced Insulation System, Attic Professional.
